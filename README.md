@@ -1,5 +1,5 @@
 Hi, I’m August Guenther,
-I’m interested in web development and learning how to effectively create various kinds of sites with both internal and external APIs. 
+I'm a web developer with experience with Node.JS, ASP.NET, and React amongst other supporting libraries and technologies relevant to C# and JavaScript.  
 I'm currently working at Inflectra Corporation in Silver Spring, MD on their various add-ins and integrations with external services. 
 Want to reach me? Contact me at augustTGuenther@gmail.com.
 
